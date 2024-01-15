@@ -1,9 +1,0 @@
-no_of_predictors,predictors,test_accuracy
-12,rate_p_attr+rate_p_intel+rate_p_fun+rate_p_amb+rate_p_sinc+prob+gender_p_attr+gender_p_intel+gender_p_fun+gender_p_amb+gender_p_sinc+gender_prob,75.5
-11,rate_p_attr+rate_p_intel+rate_p_fun+rate_p_amb+rate_p_sinc+prob+gender_p_attr+gender_p_intel+gender_p_fun+gender_p_sinc+gender_prob,75.4
-10,rate_p_attr+rate_p_intel+rate_p_fun+rate_p_amb+rate_p_sinc+prob+gender_p_attr+gender_p_intel+gender_p_sinc+gender_prob,75.5
-9,rate_p_attr+rate_p_intel+rate_p_fun+rate_p_amb+prob+gender_p_attr+gender_p_intel+gender_p_sinc+gender_prob,75.4
-8,rate_p_attr+rate_p_intel+rate_p_fun+rate_p_amb+prob+gender_p_attr+gender_p_sinc+gender_prob,75.4
-7,rate_p_attr+rate_p_fun+rate_p_amb+prob+gender_p_attr+gender_p_sinc+gender_prob,75.4
-6,rate_p_attr+rate_p_fun+rate_p_amb+prob+gender_p_attr+gender_p_sinc,75.8
-5,rate_p_attr+rate_p_fun+prob+gender_p_attr+gender_p_sinc,75.8
